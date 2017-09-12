@@ -1,25 +1,8 @@
-# ReduxSimpleStarter
+# YouTube React App
+A simple React app that uses YouTube's API to pull the top 5 results from a search query into your webpage.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+## How to use:
+1. `git clone` this repo
+2. Download and install node.js if you don't already have it installed.
+3. Then run `npm install`
+4. Then run `npm start`
